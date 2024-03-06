@@ -1,0 +1,14 @@
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\OperadorDeCoalesencia\bin\Debug\net7.0\OperadorDeCoalesencia.exe
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\OperadorDeCoalesencia\bin\Debug\net7.0\OperadorDeCoalesencia.deps.json
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\OperadorDeCoalesencia\bin\Debug\net7.0\OperadorDeCoalesencia.runtimeconfig.json
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\OperadorDeCoalesencia\bin\Debug\net7.0\OperadorDeCoalesencia.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\OperadorDeCoalesencia\bin\Debug\net7.0\OperadorDeCoalesencia.pdb
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\OperadorDeCoalesencia\obj\Debug\net7.0\OperadorDeCoalesencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\OperadorDeCoalesencia\obj\Debug\net7.0\OperadorDeCoalesencia.AssemblyInfoInputs.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\OperadorDeCoalesencia\obj\Debug\net7.0\OperadorDeCoalesencia.AssemblyInfo.cs
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\OperadorDeCoalesencia\obj\Debug\net7.0\OperadorDeCoalesencia.csproj.CoreCompileInputs.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\OperadorDeCoalesencia\obj\Debug\net7.0\OperadorDeCoalesencia.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\OperadorDeCoalesencia\obj\Debug\net7.0\refint\OperadorDeCoalesencia.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\OperadorDeCoalesencia\obj\Debug\net7.0\OperadorDeCoalesencia.pdb
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\OperadorDeCoalesencia\obj\Debug\net7.0\OperadorDeCoalesencia.genruntimeconfig.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\OperadorDeCoalesencia\obj\Debug\net7.0\ref\OperadorDeCoalesencia.dll
